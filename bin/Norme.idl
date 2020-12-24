@@ -1,0 +1,8 @@
+module corbaNorme {
+        
+   interface VecteurInterface{
+   
+   double norme(in double a,in double b,in double c);
+   
+   };	
+};
